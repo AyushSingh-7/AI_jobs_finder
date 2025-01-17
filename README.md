@@ -8,7 +8,7 @@ An **AI-powered job search** application delivering unmatched speed, accuracy, a
 **Demo**
 --------
 
-![demo](../assets/AI-powered-job-search.gif)
+![demo](./public/assets/AI-powered-job-search.gif)
 
 * * *
 
